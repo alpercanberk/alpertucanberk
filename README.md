@@ -1,7 +1,6 @@
-### Hi there 👋
-
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alper!](https://www.linkedin.com/in/alper-canberk-517033186/) 
 <!--
-**alpertucanberk/alpertucanberk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alexzhang13/alexzhang13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+🌱 I’m currently learning about Deep Learning.
+🔭 I’m an undergraduate computer science student at Columbia Universiy</br>
+💬 Feel free to contact me at alper.tu.canberk@gmail.com </br>
+
+![Alper's github stats](https://github-readme-stats.vercel.app/api?username=alpertucanberk&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)&nbsp;&nbsp;
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alpertucanberk.alpertucanberk)
