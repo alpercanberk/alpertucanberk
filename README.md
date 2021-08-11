@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-🌱 I’m currently learning about deep learning.</br>
+😄 Pronouns: He/Him
+🌱 I’m currently interested in deep learning.</br>
 🔭 I’m an undergraduate computer science student at Columbia University</br>
 📫 Feel free to contact me at alper.tu.canberk@gmail.com </br>
 
