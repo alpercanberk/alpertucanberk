@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 😄 Pronouns: He/Him </br>
 🌱 I’m currently interested in deep learning.</br>
 🔭 I’m an undergraduate computer science student at Columbia University</br>
-📫 Feel free to contact me at alper.tu.canberk@gmail.com </br>
+📫 Feel free to contact me at alper.tu.canberk@gmail.com or ac4983@columbia.edu</br>
 
 ![Alper's github stats](https://github-readme-stats.vercel.app/api?username=alpertucanberk&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)&nbsp;&nbsp;
 <br />
