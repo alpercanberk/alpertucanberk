@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-🌱 I’m currently learning about Deep Learning.
-🔭 I’m an undergraduate computer science student at Columbia Universiy</br>
-💬 Feel free to contact me at alper.tu.canberk@gmail.com </br>
+🌱 I’m currently learning about Deep Learning.</br>
+🔭 I’m an undergraduate computer science student at Columbia University</br>
+📫 Feel free to contact me at alper.tu.canberk@gmail.com </br>
 
 ![Alper's github stats](https://github-readme-stats.vercel.app/api?username=alpertucanberk&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)&nbsp;&nbsp;
 <br />
