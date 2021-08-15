@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### About Me
 😄 Pronouns: He/Him </br>
-🌱 I’m currently interested in deep learning.</br>
+🌱 I’m interested in machine learning and robotics.</br>
 🔭 I’m an undergraduate computer science student at Columbia University (Class of 2025)</br>
 📫 Feel free to contact me at alper.tu.canberk@gmail.com or ac4983@columbia.edu</br>
 
