@@ -1,6 +1,5 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alper!](https://www.linkedin.com/in/alper-canberk-517033186/) 
 <!--
-**alexzhang13/alexzhang13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,8 +15,9 @@ Here are some ideas to get you started:
 
 ### About Me
 😄 Pronouns: He/Him </br>
-🌱 I’m interested in machine learning and robotics.</br>
-🔭 I’m an undergraduate computer science student at Columbia University (Class of 2025)</br>
+🌱 I’m broadly interested in machine learning, math and robotics.</br>
+🤔 Currently working on cloth manipulation because I'm too lazy to fold my clothes. </br>
+🔭 I’m an undergraduate computer science student at Columbia University </br>
 📫 Feel free to contact me at alper.tu.canberk@gmail.com or ac4983@columbia.edu</br>
 
 ![Alper's github stats](https://github-readme-stats.vercel.app/api?username=alpertucanberk&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)&nbsp;&nbsp;
